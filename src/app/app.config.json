@@ -1,0 +1,14 @@
+{
+	"appname": "web-admin-app",
+	"scope": "FullAccess",
+	"clientid": "EF9428DA-2F6C-42B1-BD29-0A66B4921215",
+	"buyerid": "test",
+	"environment": "prod",
+	"anonymous": false,
+	"base": {
+		"left": true,
+		"right": false,
+		"top": true,
+		"bottom": false
+	}
+}
